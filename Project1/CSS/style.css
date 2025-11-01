@@ -212,7 +212,7 @@ body {
 .img2::before {
   position: absolute;
   content: "";
-  background-image: url("/png/image14.png");
+  background-image: url("../png/image14.png");
   width: 100%;
 
   z-index: -1;
@@ -275,7 +275,7 @@ body {
 }
 
 .img-product-2 {
-  background-image: url("/png/image15.png");
+  background-image: url("../png/image15.png");
   width: 40%;
 
   height: 70vh;
@@ -285,7 +285,7 @@ body {
 }
 
 .image-product-2-2 {
-  background-image: url("/png/image16.png");
+  background-image: url("../png/image16.png");
   width: 25vw;
   height: 40vh;
   background-size: cover;
@@ -318,7 +318,7 @@ body {
 }
 
 .img-product-3 {
-  background-image: url("/png/image17.png");
+  background-image: url("../png/image17.png");
   width: 40%;
   height: 70vh;
   background-repeat: no-repeat;
@@ -430,7 +430,7 @@ body {
 }
 
 .img-product-4 {
-  background-image: url("/png/image18.png");
+  background-image: url("../png/image18.png");
   width: 40%;
   height: 70vh;
   background-repeat: no-repeat;
